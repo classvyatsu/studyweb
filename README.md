@@ -1,1 +1,1 @@
-# studyweb
+# studyweb - учебный проект
